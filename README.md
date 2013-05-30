@@ -1,4 +1,4 @@
-rust_tests
+Rust Tests
 ==========
 
 Learning Rust
